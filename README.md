@@ -1,6 +1,6 @@
 # Treinamento_Nodejs
 
-## Hellô word com nodejs
+## Exemplo de Hellô word com nodejs
 
 
 ## Installation
