@@ -1,4 +1,4 @@
-# Treinamento_Nodejs
+# Vamos estudar a fundo os verbosHTTP_Nodejs
 
 ## Exemplo de Hellô word com nodejs
 ## Construção de uma API Rest 
