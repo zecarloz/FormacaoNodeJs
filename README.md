@@ -1,7 +1,7 @@
 # Treinamento_Nodejs
 
 ## Exemplo de Hellô word com nodejs
-## API Rest 
+## Construção de uma API Rest 
 
 ## Installation
 
