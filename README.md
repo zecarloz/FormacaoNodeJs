@@ -5,7 +5,7 @@
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
-# Vamos estudar a fundo os verbosHTTP e AAngular/cli
+# Vamos estudar a fundo os verbosHTTP e Angular/cli
 
 ## Exemplo de Hellô word com nodejs
 ## Construção de uma API Rest onde executaremos as requisiçoes Http. get,post,put,delet.
