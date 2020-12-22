@@ -2,12 +2,7 @@
 
 ## Exemplo de Hellô word com nodejs
 ## Construção de uma API Rest onde executaremos as requisiçoes Http.
-
-## Instalação :
-
-### npm init -y
-### npm install express
-### npm install nodemon
+## Módulo request-http e construção do servidor em json-server .
 #### Obrigado pela visita.
 ## Contribuindo:
 #### JoseCarlos
