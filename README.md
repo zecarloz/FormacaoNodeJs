@@ -13,7 +13,7 @@
 ## Módulo request-http e construção do servidor em json-server .
 #### Obrigado pela visita.
 ## Contribuindo:
-#### JoseCarlos
+#### JoseCarlos de Oliveira.
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
