@@ -6,7 +6,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 # Vamos estudar a fundo os verbosHTTP com nest e Angular/cli usando um servidor json-server e express
-#npm i 
+#npm install 
 ## npm instal -g json-server
 ## Exemplo de Hellô word com nodejs
 ## Construção de uma API Rest onde executaremos as requisiçoes Http. get,post,put,delet.
