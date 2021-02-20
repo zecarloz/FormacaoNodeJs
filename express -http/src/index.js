@@ -1,6 +1,6 @@
 const app = require('express')();
 const bodyParser = require('body-parser');
-
+/* Treinamento em desenvolvimento com Node.js */
 app.use(bodyParser.json());
 
 let clients = [
