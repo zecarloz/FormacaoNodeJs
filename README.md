@@ -21,8 +21,8 @@
 ## Construção de uma API Rest onde executaremos as requisiçoes Http. get,post,put,delet.
 ## Módulo request-http e construção do servidor em json-server .
 #### Obrigado pela visita.
-## Visitem meu github e curtam meus projetos clique na esttrelinha:)
-https://github.com/zecarloz
+## Visitem meu github e curtam meus projetos (star) =>:)
+###### https://github.com/zecarloz
 #### JoseCarlos de Oliveira.
 
 ## Licencia
