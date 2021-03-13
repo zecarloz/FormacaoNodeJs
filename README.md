@@ -25,5 +25,5 @@
 ###### https://github.com/zecarloz
 #### JoseCarlos de Oliveira.
 
-## Licencia
-[MIT](https://choosealicense.com/licenses/mit/).
+## Licença [MIT](https://choosealicense.com/licenses/mit/).
+
