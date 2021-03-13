@@ -1,3 +1,0 @@
-npm init -y  === para criar o projeto
-npm install express --save  === para instalar o express
-npm install ejs --save  ====para instalar o ejs

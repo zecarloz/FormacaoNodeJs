@@ -1,0 +1,4 @@
+next aula 21
+npm i body-parser --save
+npm install --save sequrlize
+npm install --save mysql2
