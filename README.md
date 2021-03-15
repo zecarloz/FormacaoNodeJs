@@ -3,7 +3,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p> 
 
-![Logo of the project](https://www.educative.io/api/edpresso/shot/4572212776402944/image/6018355762823168)
+![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsa0alt1oJcqt_IZ3JIUY5dMVcBlimLTF3Pg&usqp=CAU)
 
 # Vamos estudar a fundo os verbosHTTP com nest e Angular/cli usando um servidor json-server e express
 # npm install 
