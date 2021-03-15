@@ -1,7 +1,6 @@
 # Treinamento NodeJs
-
 <p align="center">
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsa0alt1oJcqt_IZ3JIUY5dMVcBlimLTF3Pg&usqp=CAU" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
  [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
