@@ -13,7 +13,7 @@
 
 ## Exemplo de Hellô word com nodejs
 #### npm i body-parser --save
-#### npm install --save sequrlize
+#### npm install --save sequelize
 #### npm install --save mysql2
 
 
