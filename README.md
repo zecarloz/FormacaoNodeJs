@@ -2,9 +2,8 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
+![Logo of the project](https://www.educative.io/api/edpresso/shot/4572212776402944/image/6018355762823168)
 
- [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
 # Vamos estudar a fundo os verbosHTTP com nest e Angular/cli usando um servidor json-server e express
 # npm install 
 ## npm instal -g json-server
