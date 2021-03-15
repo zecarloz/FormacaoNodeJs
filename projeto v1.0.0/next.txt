@@ -1,4 +1,4 @@
-next aula 21
+next aula 23
 npm i body-parser --save
 npm install --save sequrlize
 npm install --save mysql2
