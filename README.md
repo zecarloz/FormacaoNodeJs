@@ -3,11 +3,13 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p> 
 
-![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsa0alt1oJcqt_IZ3JIUY5dMVcBlimLTF3Pg&usqp=CAU)
+
 
 # Vamos estudar a fundo os verbosHTTP com nest e Angular/cli usando um servidor json-server e express
 # npm install 
 ## npm instal -g json-server
+
+![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsa0alt1oJcqt_IZ3JIUY5dMVcBlimLTF3Pg&usqp=CAU)
 
 ##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0.0
 
