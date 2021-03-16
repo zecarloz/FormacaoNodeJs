@@ -10,7 +10,7 @@
 ## npm instal -g json-server
 
 ##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0.0
-
+#### npm install express --save
 ## Exemplo de Hellô word com nodejs
 #### npm i body-parser --save
 #### npm install --save sequrlize
