@@ -6,7 +6,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 # Vamos estudar a fundo os verbosHTTP com nest e Angular/cli usando um servidor json-server e express
-#npm install 
+# npm install 
 ## npm instal -g json-server
 
 ##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0.0
