@@ -1,4 +1,0 @@
-projeto final
-npm i body-parser --save
-npm install --save sequrlize
-npm install --save mysql2
