@@ -1,4 +1,4 @@
-next aula 23
+Projeto final 100% concluido e funcional.
 npm i body-parser --save
 npm install --save sequrlize
 npm install --save mysql2
