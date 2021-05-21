@@ -13,7 +13,7 @@
 
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsa0alt1oJcqt_IZ3JIUY5dMVcBlimLTF3Pg&usqp=CAU)
 
-##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0.0
+##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0
 
 ## projeto 01 com nodejs
 #### npm i body-parser --save
