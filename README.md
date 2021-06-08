@@ -1,6 +1,6 @@
 # Treinamento NodeJs
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+  <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fnode-js-1-1174935.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fnode-js-1&tbnid=AazGx0SO0FlSvM&vet=12ahUKEwiX85yDmojxAhUuNLkGHeRGAHsQMygDegUIARDDAQ..i&docid=pdaZiJXvfn7WzM&w=256&h=256&q=node%20js&hl=pt-BR&ved=2ahUKEwiX85yDmojxAhUuNLkGHeRGAHsQMygDegUIARDDAQ" width="320" alt="Nest Logo" /></a>
 </p> 
 
 
