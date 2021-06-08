@@ -1,7 +1,7 @@
 # Treinamento NodeJs
-<p align="center">
+
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsa0alt1oJcqt_IZ3JIUY5dMVcBlimLTF3Pg&usqp=CAU)>
-</p> 
+ 
 
 
 
