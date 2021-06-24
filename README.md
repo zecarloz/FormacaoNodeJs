@@ -20,7 +20,7 @@
 
 
 
-#### Obrigado pela visita.
+#### Obrigado pela visita
 ###### https://github.com/zecarloz
 #### JoseCarlos de Oliveira.
 
