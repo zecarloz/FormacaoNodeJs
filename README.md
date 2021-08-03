@@ -11,7 +11,7 @@
 ## Construção de uma API Rest onde executaremos as requisiçoes Http. get,post,put,delet .
 ## Módulo request-http e construção do servidor em json-server
 
-##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0 .
+##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0
 
 ## projeto 01 com nodejs
 #### npm i body-parser --save
