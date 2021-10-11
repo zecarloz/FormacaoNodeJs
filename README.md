@@ -13,7 +13,7 @@
 
 ##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0
 
-## projeto 01 com nodejs
+## projeto 01 com nodejs .
 #### npm i body-parser --save
 #### npm install --save sequelize
 #### npm install --save mysql2
