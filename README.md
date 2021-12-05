@@ -8,7 +8,7 @@
 #  Vamos estudar a fundo os verbosHTTP usando um servidor json-server e express
 #  npm install
 ## npm instal -g json-server
-## Construção de uma API Rest onde executaremos as requisiçoes Http. get,post,put,delet .
+## Construção de uma API Rest onde executaremos as requisiçoes Http. get,post,put,delet 
 ## Módulo request-http e construção do servidor em json-server
 
 ##### Contrução de uma plaforma de perguntas e respostas estilo Yahoo projeto 1.0
