@@ -22,7 +22,7 @@
 
 #### Obrigado pela visita .
 ###### https://github.com/zecarloz 
-#### JoseCarlos de Oliveira 
+#### JoseCarlos de Oliveira .
 
 ## Licença [MIT](https://choosealicense.com/licenses/mit/)
 
